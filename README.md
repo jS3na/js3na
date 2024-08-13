@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi! I’m João Gabriel, a junior developer from Brazil.<br><br>- 🔭 I’m currently working with PHP in web development, creating dynamic and scalable websites.<br><br>- 📚 I’m focused on mastering React Native to build cutting-edge mobile apps.<br><br>- ⚡⚡ In my free time, I enjoy learning about Linux servers and platforms like Proxmox, constantly exploring new technologies to expand my skills.</p>
+<p align="left">Hi! I’m João Gabriel, a junior developer from Brazil.<br><br>- 🔭 I’m currently working with PHP in web development, creating dynamic and scalable websites.<br><br>- 📚 I’m focused on mastering React Native to build cutting-edge mobile apps.<br><br>- ⚡ In my free time, I enjoy learning about Linux servers and platforms like Proxmox, constantly exploring new technologies to expand my skills.</p>
 
 ###
 
@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
