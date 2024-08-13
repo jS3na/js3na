@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">Hi! I’m João Gabriel, a junior developer from Brazil passionate about React Native and PHP. I’m excited to dive into tech, build apps, and grow my skills. Let’s connect!</h3>
+<h3 align="center">I’m excited to dive into tech, build apps, and grow my skills. Let’s connect!</h3>
 
 ###
 
