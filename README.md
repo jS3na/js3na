@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi! I’m João Gabriel, a junior developer from Brazil.<br><br>- 🔭 I’m currently working with PHP in web development, creating dynamic and scalable websites.<br><br>- 📚 I’m focused on mastering React Native to build cutting-edge mobile apps.<br><br>- ⚡ In my free time, I enjoy learning about Linux servers and platforms like Proxmox and VMWare, constantly exploring new technologies to expand my skills.</p>
+<p align="left">Hi! I’m João Gabriel, a junior developer from Brazil.<br><br>- 🔭 I’m currently working as a Full Stack Developer with PHP. I build dynamic and scalable websites using the Laravel framework and develop robust APIs.<br><br>- 📚 I’m focused on mastering React Native to build cutting-edge mobile apps.<br><br>- ⚡ In my free time, I enjoy learning about Linux servers and platforms like Proxmox and VMWare, constantly exploring new technologies to expand my skills.</p>
 
 ###
 
