@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Hi! I’m João Gabriel, a junior developer from Brazil.<br><br>- 🔭 I’m currently working as a Full Stack Developer with PHP. I build dynamic and scalable websites using the Laravel framework and develop robust APIs.<br><br>- 📚 I'm focused on mastering React Native and Flutter to build mobile apps, and I'm also learning about Go.<br><br>- ⚡ In my free time, I enjoy learning about Linux servers, platforms like Proxmox and VMWare or Frameworks like Ruby On Rails, constantly exploring new technologies to expand my skills</p>
+<p align="left">Hi! I’m João Gabriel, a junior developer from Brazil.<br><br>- 🔭 I’m currently working as a Full Stack Developer with PHP. I build dynamic and scalable websites using the Laravel framework and develop robust APIs.<br><br>- 📚 I'm focused on mastering React Native and Ionic to build mobile apps, and I'm also learning about Java and Spring.<br><br>- ⚡ In my free time, I enjoy learning about Linux servers, platforms like Proxmox and VMWare or Frameworks like Ruby On Rails, constantly exploring new technologies to expand my skills</p>
 
 ###
 
