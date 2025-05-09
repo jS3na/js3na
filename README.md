@@ -5,19 +5,18 @@
   <a href="mailto:passosjoaogabriel29@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://youtu.be/RMFEVceqLKg?si=LAq1DFRTwppv5j8U" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Introduction%20Video&logo=youtube&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
 
-<h3 align="center">I’m excited to dive into tech, build apps, and grow my skills. Let’s connect!</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi! I’m João Gabriel, a junior developer from Brazil.<br><br>- 🔭 I’m currently working as a Full Stack Developer with PHP. I build dynamic and scalable websites using the Laravel framework and develop robust APIs.<br><br>- 📚 I'm focused on mastering React Native and Ionic to build mobile apps, and I'm also learning about Java and Spring.<br><br>- ⚡ In my free time, I enjoy learning about Linux servers, platforms like Proxmox and VMWare or Frameworks like Ruby On Rails, constantly exploring new technologies to expand my skills</p>
+<p align="left">Hi! I’m João Gabriel, a developer from Brazil.<br><br>- Currently, I work as a full stack developer, primarily using PHP for the backend, mainly with the Laravel framework, and Next.js for the frontend.<br><br>- I have been dedicating myself to studying Java with Spring Boot and Vue.js for the frontend.<br><br>- ⚡ In my free time, I enjoy learning about Linux servers, platforms like Proxmox and VMWare, constantly exploring new technologies to expand my skills</p>
 
 ###
 
@@ -30,13 +29,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring-boot logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring-boot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
