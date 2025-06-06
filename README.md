@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Developer from Brazil.<br><br>- Currently, I work as a full stack developer, primarily using PHP for the backend, mainly with the Laravel framework, but also Python with Flask, Java with SpringBoot, and Next.js or Vue.js for the frontend.<br><br>I enjoy studying and working with Linux servers, platforms like Proxmox and VMWare, or just building home servers for fun.</p>
+<p align="left">Developer from Brazil.<br><br>- Currently, I work as a full stack developer, primarily using PHP for the backend, mainly with the Laravel framework, but also Python with Flask, Java with SpringBoot, and Next.js or Vue.js for the frontend.<br><br>- I enjoy studying and working with Linux servers, platforms like Proxmox and VMWare, or just building home servers for fun.</p>
 
 ###
 
