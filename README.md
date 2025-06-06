@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hi! I’m João Gabriel, a developer from Brazil.<br><br>- Currently, I work as a full stack developer, primarily using PHP for the backend, mainly with the Laravel framework, and Next.js for the frontend.<br><br>- I have been dedicating myself to studying Java with Spring Boot and Vue.js for the frontend.<br><br>- In my free time, I enjoy learning about Linux servers, platforms like Proxmox and VMWare, constantly exploring new technologies to expand my skills</p>
+<p align="left">Developer from Brazil.<br><br>- Currently, I work as a full stack developer, primarily using PHP for the backend, mainly with the Laravel framework, but also Python with Flask, Java with SpringBoot, and Next.js or Vue.js for the frontend.<br><br>I enjoy studying and working with Linux servers, platforms like Proxmox and VMWare, or just building home servers for fun.</p>
 
 ###
 
